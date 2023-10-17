@@ -60,49 +60,23 @@ namespace Elev8_Final.Data.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CourseID"), 1L, 1);
 
                     b.Property<string>("Category")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Description")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("EnrollmentCount")
                         .HasColumnType("int");
 
                     b.Property<string>("Title")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("CourseID");
 
                     b.ToTable("Courses");
-                });
-
-            modelBuilder.Entity("Elev8_Final.Models.Enrollment2", b =>
-                {
-                    b.Property<int>("EnrollmentID")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("EnrollmentID"), 1L, 1);
-
-                    b.Property<int?>("CourseID")
-                        .HasColumnType("int");
-
-                    b.Property<DateTime>("EnrollmentDate")
-                        .HasColumnType("datetime2");
-
-                    b.Property<string>("Id")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("UserId")
-                        .HasColumnType("nvarchar(450)");
-
-                    b.HasKey("EnrollmentID");
-
-                    b.HasIndex("CourseID");
-
-                    b.HasIndex("UserId");
-
-                    b.ToTable("Enrollments2");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole", b =>
@@ -316,21 +290,6 @@ namespace Elev8_Final.Data.Migrations
                     b.Navigation("Course");
                 });
 
-            modelBuilder.Entity("Elev8_Final.Models.Enrollment2", b =>
-                {
-                    b.HasOne("Elev8_Final.Models.Course", "Course")
-                        .WithMany("Enrollments")
-                        .HasForeignKey("CourseID");
-
-                    b.HasOne("Microsoft.AspNetCore.Identity.IdentityUser", "User")
-                        .WithMany()
-                        .HasForeignKey("UserId");
-
-                    b.Navigation("Course");
-
-                    b.Navigation("User");
-                });
-
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
                 {
                     b.HasOne("Microsoft.AspNetCore.Identity.IdentityRole", null)
@@ -385,8 +344,6 @@ namespace Elev8_Final.Data.Migrations
             modelBuilder.Entity("Elev8_Final.Models.Course", b =>
                 {
                     b.Navigation("Assignments");
-
-                    b.Navigation("Enrollments");
                 });
 #pragma warning restore 612, 618
         }

@@ -2,13 +2,17 @@
 
 @{
     ViewData["Title"] = "Index";
+    Layout = "_LayoutDashboard";
+
 }
 
-<h1>Index</h1>
-
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
+<h1>Courses</h1>
+@if (User.IsInRole("Admin"))
+{
+    <p>
+        <a asp-action="Create">Create New</a>
+    </p>
+}
 <table class="table">
     <thead>
         <tr>
@@ -43,11 +47,19 @@
                 @Html.DisplayFor(modelItem => item.EnrollmentCount)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.CourseID">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.CourseID">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.CourseID">Delete</a>
-            </td>
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <a asp-action="Edit" asp-route-id="@item.CourseID">Edit</a>
+                    }
+                    |
+                    <a asp-action="Details" asp-route-id="@item.CourseID">Details</a> |
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <a asp-action="Delete" asp-route-id="@item.CourseID">Delete</a>
+                    }
+                </td>
         </tr>
 }
     </tbody>
 </table>
+

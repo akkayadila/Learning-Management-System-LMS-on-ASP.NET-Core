@@ -12,7 +12,6 @@ namespace Elev8_Final.Data
         }
         public DbSet<Course> Courses { get; set; }
         public DbSet<Assignment> Assignments { get; set; }
-        public DbSet<Elev8_Final.Models.Enrollment2>? Enrollments2 { get; set; }
 
     }
 }
