@@ -1,0 +1,1201 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Elev8-Final.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Elev8-Final.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\css\\assets.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\assets.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\css\\color\\color-1.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\color\\color-1.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\css\\dashboard.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\dashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\css\\shortcodes\\accordion.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\shortcodes\\accordion.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\css\\shortcodes\\alert.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\shortcodes\\alert.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\css\\shortcodes\\breadcrumb.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\shortcodes\\breadcrumb.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\css\\shortcodes\\button.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\shortcodes\\button.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\css\\shortcodes\\divider.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\shortcodes\\divider.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\css\\shortcodes\\form.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\shortcodes\\form.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\css\\shortcodes\\icon-box.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\shortcodes\\icon-box.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\css\\shortcodes\\layout.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\shortcodes\\layout.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\css\\shortcodes\\list.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\shortcodes\\list.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\css\\shortcodes\\overlay.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\shortcodes\\overlay.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\css\\shortcodes\\owl.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\shortcodes\\owl.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\css\\shortcodes\\pagination.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\shortcodes\\pagination.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\css\\shortcodes\\pricingtable.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\shortcodes\\pricingtable.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\css\\shortcodes\\separator.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\shortcodes\\separator.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\css\\shortcodes\\shortcodes.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\shortcodes\\shortcodes.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\css\\shortcodes\\widget.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\shortcodes\\widget.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\css\\typography.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\typography.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\images\\about\\pic1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\about\\pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\images\\courses\\pic1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\courses\\pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\images\\courses\\pic2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\courses\\pic2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\images\\courses\\pic3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\courses\\pic3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\images\\courses\\pic4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\courses\\pic4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\images\\courses\\pic6.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\courses\\pic6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\images\\courses\\pic7.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\courses\\pic7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\images\\courses\\pic8.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\courses\\pic8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\images\\courses\\pic9.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\courses\\pic9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\images\\logo-mobile.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\logo-mobile.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\images\\logo-white.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\logo-white.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\images\\testimonials\\pic1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\testimonials\\pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\images\\testimonials\\pic2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\testimonials\\pic2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\images\\testimonials\\pic3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\testimonials\\pic3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\js\\admin.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\admin.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\js\\functions.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\functions.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\bootstrap-select\\bootstrap-select.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\bootstrap-select\\bootstrap-select.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\bootstrap-select\\bootstrap-select.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\bootstrap-select\\bootstrap-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\bootstrap-touchspin\\jquery.bootstrap-touchspin.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\bootstrap-touchspin\\jquery.bootstrap-touchspin.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\calendar\\fullcalendar.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\calendar\\fullcalendar.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\calendar\\fullcalendar.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\calendar\\fullcalendar.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\calendar\\moment.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\calendar\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\chart\\chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\chart\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\counter\\counterup.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\counter\\counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\counter\\waypoints-min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\counter\\waypoints-min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\file-upload\\imageuploadify.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\file-upload\\imageuploadify.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\file-upload\\imageuploadify.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\file-upload\\imageuploadify.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\fontawesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\fontawesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\fontawesome\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\fontawesome\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\fontawesome\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\fontawesome\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\fontawesome\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\fontawesome\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\fontawesome\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\fontawesome\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\fontawesome\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\fontawesome\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\fontawesome\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\fontawesome\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\imagesloaded\\imagesloaded.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\imagesloaded\\imagesloaded.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\magnific-popup\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\magnific-popup\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\magnific-popup\\magnific-popup.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\magnific-popup\\magnific-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\masonry\\filter.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\masonry\\filter.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\masonry\\masonry.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\masonry\\masonry.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\owl-carousel\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\owl-carousel\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\owl-carousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\owl-carousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\scroll\\scrollbar.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\scroll\\scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\scroll\\scrollbar.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\scroll\\scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\summernote\\font\\summernotec360.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\summernote\\font\\summernotec360.eot"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\summernote\\font\\summernotec360.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\summernote\\font\\summernotec360.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\summernote\\font\\summernotec360.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\summernote\\font\\summernotec360.woff"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\summernote\\summernote.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\summernote\\summernote.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\summernote\\summernote.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\summernote\\summernote.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\switcher\\switcher.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\switcher\\switcher.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\switcher\\switcher.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\switcher\\switcher.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\themify\\fonts\\themify9f24.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\themify\\fonts\\themify9f24.eot"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\themify\\fonts\\themify9f24.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\themify\\fonts\\themify9f24.svg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\themify\\fonts\\themify9f24.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\themify\\fonts\\themify9f24.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\themify\\fonts\\themify9f24.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\themify\\fonts\\themify9f24.woff"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\themify\\fonts\\themifyd41d.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\themify\\fonts\\themifyd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\admin\\assets\\vendors\\themify\\themify-icons.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\themify\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\css\\assets.css",
+      "PackagePath": "staticwebassets\\css\\assets.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\css\\color\\color-1.css",
+      "PackagePath": "staticwebassets\\css\\color\\color-1.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\css\\shortcodes\\accordion.css",
+      "PackagePath": "staticwebassets\\css\\shortcodes\\accordion.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\css\\shortcodes\\alert.css",
+      "PackagePath": "staticwebassets\\css\\shortcodes\\alert.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\css\\shortcodes\\breadcrumb.css",
+      "PackagePath": "staticwebassets\\css\\shortcodes\\breadcrumb.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\css\\shortcodes\\button.css",
+      "PackagePath": "staticwebassets\\css\\shortcodes\\button.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\css\\shortcodes\\divider.css",
+      "PackagePath": "staticwebassets\\css\\shortcodes\\divider.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\css\\shortcodes\\form.css",
+      "PackagePath": "staticwebassets\\css\\shortcodes\\form.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\css\\shortcodes\\icon-box.css",
+      "PackagePath": "staticwebassets\\css\\shortcodes\\icon-box.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\css\\shortcodes\\layout.css",
+      "PackagePath": "staticwebassets\\css\\shortcodes\\layout.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\css\\shortcodes\\list.css",
+      "PackagePath": "staticwebassets\\css\\shortcodes\\list.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\css\\shortcodes\\overlay.css",
+      "PackagePath": "staticwebassets\\css\\shortcodes\\overlay.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\css\\shortcodes\\owl.css",
+      "PackagePath": "staticwebassets\\css\\shortcodes\\owl.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\css\\shortcodes\\pagination.css",
+      "PackagePath": "staticwebassets\\css\\shortcodes\\pagination.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\css\\shortcodes\\pricingtable.css",
+      "PackagePath": "staticwebassets\\css\\shortcodes\\pricingtable.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\css\\shortcodes\\separator.css",
+      "PackagePath": "staticwebassets\\css\\shortcodes\\separator.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\css\\shortcodes\\shortcodes.css",
+      "PackagePath": "staticwebassets\\css\\shortcodes\\shortcodes.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\css\\shortcodes\\widget.css",
+      "PackagePath": "staticwebassets\\css\\shortcodes\\widget.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\css\\typography.css",
+      "PackagePath": "staticwebassets\\css\\typography.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\about\\pic1.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\adv\\adv.jpg",
+      "PackagePath": "staticwebassets\\images\\adv\\adv.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\background\\bg1.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\bg1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\background\\bg2.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\bg2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\banner\\banner1.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\banner\\banner2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\banner\\banner3.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\blog\\default\\thum1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\default\\thum1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\blog\\default\\thum2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\default\\thum2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\blog\\default\\thum3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\default\\thum3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\blog\\default\\thum4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\default\\thum4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\blog\\grid\\pic1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\grid\\pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\blog\\grid\\pic2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\grid\\pic2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\blog\\grid\\pic3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\grid\\pic3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\blog\\recent-blog\\pic1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\recent-blog\\pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\blog\\recent-blog\\pic2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\recent-blog\\pic2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\blog\\recent-blog\\pic3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\recent-blog\\pic3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\courses\\pic1.jpg",
+      "PackagePath": "staticwebassets\\images\\courses\\pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\courses\\pic2.jpg",
+      "PackagePath": "staticwebassets\\images\\courses\\pic2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\courses\\pic3.jpg",
+      "PackagePath": "staticwebassets\\images\\courses\\pic3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\courses\\pic4.jpg",
+      "PackagePath": "staticwebassets\\images\\courses\\pic4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\courses\\pic5.jpg",
+      "PackagePath": "staticwebassets\\images\\courses\\pic5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\courses\\pic6.jpg",
+      "PackagePath": "staticwebassets\\images\\courses\\pic6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\courses\\pic7.jpg",
+      "PackagePath": "staticwebassets\\images\\courses\\pic7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\courses\\pic8.jpg",
+      "PackagePath": "staticwebassets\\images\\courses\\pic8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\courses\\pic9.jpg",
+      "PackagePath": "staticwebassets\\images\\courses\\pic9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\event\\pic1.jpg",
+      "PackagePath": "staticwebassets\\images\\event\\pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\flag\\united-kingdom.svg",
+      "PackagePath": "staticwebassets\\images\\flag\\united-kingdom.svg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\flag\\united-states-of-america.svg",
+      "PackagePath": "staticwebassets\\images\\flag\\united-states-of-america.svg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\gallery\\pic1.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\gallery\\pic2.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\pic2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\gallery\\pic3.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\pic3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\gallery\\pic4.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\pic4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\gallery\\pic5.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\pic5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\gallery\\pic6.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\pic6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\gallery\\pic7.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\pic7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\gallery\\pic8.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\pic8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\gallery\\pic9.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\pic9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\icon\\icon1.png",
+      "PackagePath": "staticwebassets\\images\\icon\\icon1.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\icon\\icon2.png",
+      "PackagePath": "staticwebassets\\images\\icon\\icon2.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\icon\\icon3.png",
+      "PackagePath": "staticwebassets\\images\\icon\\icon3.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\icon\\icon4.png",
+      "PackagePath": "staticwebassets\\images\\icon\\icon4.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\logo-white-2.png",
+      "PackagePath": "staticwebassets\\images\\logo-white-2.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\logo-white.png",
+      "PackagePath": "staticwebassets\\images\\logo-white.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\our-services\\pic1.jpg",
+      "PackagePath": "staticwebassets\\images\\our-services\\pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\our-services\\pic2.jpg",
+      "PackagePath": "staticwebassets\\images\\our-services\\pic2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\our-services\\pic3.jpg",
+      "PackagePath": "staticwebassets\\images\\our-services\\pic3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\portfolio\\image_1.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\image_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\portfolio\\image_10.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\image_10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\portfolio\\image_11.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\image_11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\portfolio\\image_12.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\image_12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\portfolio\\image_2.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\image_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\portfolio\\image_3.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\image_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\portfolio\\image_4.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\image_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\portfolio\\image_5.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\image_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\portfolio\\image_6.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\image_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\portfolio\\image_7.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\image_7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\portfolio\\image_8.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\image_8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\portfolio\\image_9.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\image_9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\profile\\pic1.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\slider\\slide1.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\slide1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\slider\\slide2.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\slide2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\testimonials\\pic1.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonials\\pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\testimonials\\pic2.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonials\\pic2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\images\\testimonials\\pic3.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonials\\pic3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\js\\contact.js",
+      "PackagePath": "staticwebassets\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\js\\functions.js",
+      "PackagePath": "staticwebassets\\js\\functions.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\js\\jquery.scroller.js",
+      "PackagePath": "staticwebassets\\js\\jquery.scroller.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\bootstrap-select\\bootstrap-select.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-select\\bootstrap-select.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\bootstrap-select\\bootstrap-select.min.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-select\\bootstrap-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\bootstrap-touchspin\\jquery.bootstrap-touchspin.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-touchspin\\jquery.bootstrap-touchspin.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\counter\\counterup.min.js",
+      "PackagePath": "staticwebassets\\vendors\\counter\\counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\counter\\waypoints-min.js",
+      "PackagePath": "staticwebassets\\vendors\\counter\\waypoints-min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\fontawesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\vendors\\fontawesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\fontawesome\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\vendors\\fontawesome\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\fontawesome\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\vendors\\fontawesome\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\fontawesome\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\vendors\\fontawesome\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\fontawesome\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\vendors\\fontawesome\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\fontawesome\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\vendors\\fontawesome\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\fontawesome\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\vendors\\fontawesome\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\imagesloaded\\imagesloaded.js",
+      "PackagePath": "staticwebassets\\vendors\\imagesloaded\\imagesloaded.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\magnific-popup\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\vendors\\magnific-popup\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\magnific-popup\\magnific-popup.js",
+      "PackagePath": "staticwebassets\\vendors\\magnific-popup\\magnific-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\masonry\\filter.js",
+      "PackagePath": "staticwebassets\\vendors\\masonry\\filter.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\masonry\\masonry.js",
+      "PackagePath": "staticwebassets\\vendors\\masonry\\masonry.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\owl-carousel\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\vendors\\owl-carousel\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\owl-carousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\vendors\\owl-carousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\revolution\\assets\\coloredbg.png",
+      "PackagePath": "staticwebassets\\vendors\\revolution\\assets\\coloredbg.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\revolution\\assets\\gridtile.png",
+      "PackagePath": "staticwebassets\\vendors\\revolution\\assets\\gridtile.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\revolution\\assets\\gridtile_3x3.png",
+      "PackagePath": "staticwebassets\\vendors\\revolution\\assets\\gridtile_3x3.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\revolution\\assets\\gridtile_3x3_white.png",
+      "PackagePath": "staticwebassets\\vendors\\revolution\\assets\\gridtile_3x3_white.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\revolution\\assets\\gridtile_white.png",
+      "PackagePath": "staticwebassets\\vendors\\revolution\\assets\\gridtile_white.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\revolution\\assets\\loader.gif",
+      "PackagePath": "staticwebassets\\vendors\\revolution\\assets\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\revolution\\css\\closedhand.html",
+      "PackagePath": "staticwebassets\\vendors\\revolution\\css\\closedhand.html"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\revolution\\css\\layers.css",
+      "PackagePath": "staticwebassets\\vendors\\revolution\\css\\layers.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\revolution\\css\\navigation.css",
+      "PackagePath": "staticwebassets\\vendors\\revolution\\css\\navigation.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\revolution\\css\\openhand.html",
+      "PackagePath": "staticwebassets\\vendors\\revolution\\css\\openhand.html"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\revolution\\css\\settings.css",
+      "PackagePath": "staticwebassets\\vendors\\revolution\\css\\settings.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\revolution\\fonts\\revicons\\revicons90c6.eot",
+      "PackagePath": "staticwebassets\\vendors\\revolution\\fonts\\revicons\\revicons90c6.eot"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\revolution\\fonts\\revicons\\revicons90c6.svg",
+      "PackagePath": "staticwebassets\\vendors\\revolution\\fonts\\revicons\\revicons90c6.svg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\revolution\\fonts\\revicons\\revicons90c6.ttf",
+      "PackagePath": "staticwebassets\\vendors\\revolution\\fonts\\revicons\\revicons90c6.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\revolution\\fonts\\revicons\\revicons90c6.woff",
+      "PackagePath": "staticwebassets\\vendors\\revolution\\fonts\\revicons\\revicons90c6.woff"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\revolution\\js\\extensions\\revolution.extension.actions.min.js",
+      "PackagePath": "staticwebassets\\vendors\\revolution\\js\\extensions\\revolution.extension.actions.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\revolution\\js\\extensions\\revolution.extension.carousel.min.js",
+      "PackagePath": "staticwebassets\\vendors\\revolution\\js\\extensions\\revolution.extension.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js",
+      "PackagePath": "staticwebassets\\vendors\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js",
+      "PackagePath": "staticwebassets\\vendors\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\revolution\\js\\extensions\\revolution.extension.migration.min.js",
+      "PackagePath": "staticwebassets\\vendors\\revolution\\js\\extensions\\revolution.extension.migration.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\revolution\\js\\extensions\\revolution.extension.navigation.min.js",
+      "PackagePath": "staticwebassets\\vendors\\revolution\\js\\extensions\\revolution.extension.navigation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\revolution\\js\\extensions\\revolution.extension.parallax.min.js",
+      "PackagePath": "staticwebassets\\vendors\\revolution\\js\\extensions\\revolution.extension.parallax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js",
+      "PackagePath": "staticwebassets\\vendors\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\revolution\\js\\extensions\\revolution.extension.video.min.js",
+      "PackagePath": "staticwebassets\\vendors\\revolution\\js\\extensions\\revolution.extension.video.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\revolution\\js\\jquery.themepunch.revolution.min.js",
+      "PackagePath": "staticwebassets\\vendors\\revolution\\js\\jquery.themepunch.revolution.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\revolution\\js\\jquery.themepunch.tools.min.js",
+      "PackagePath": "staticwebassets\\vendors\\revolution\\js\\jquery.themepunch.tools.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\scroll\\scrollbar.css",
+      "PackagePath": "staticwebassets\\vendors\\scroll\\scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\switcher\\switcher.css",
+      "PackagePath": "staticwebassets\\vendors\\switcher\\switcher.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\switcher\\switcher.js",
+      "PackagePath": "staticwebassets\\vendors\\switcher\\switcher.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\themify\\fonts\\themify9f24.eot",
+      "PackagePath": "staticwebassets\\vendors\\themify\\fonts\\themify9f24.eot"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\themify\\fonts\\themify9f24.svg",
+      "PackagePath": "staticwebassets\\vendors\\themify\\fonts\\themify9f24.svg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\themify\\fonts\\themify9f24.ttf",
+      "PackagePath": "staticwebassets\\vendors\\themify\\fonts\\themify9f24.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\themify\\fonts\\themify9f24.woff",
+      "PackagePath": "staticwebassets\\vendors\\themify\\fonts\\themify9f24.woff"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\themify\\fonts\\themifyd41d.eot",
+      "PackagePath": "staticwebassets\\vendors\\themify\\fonts\\themifyd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Elev8-Final-v5(Dashboard)\\Elev8-Final\\wwwroot\\vendors\\themify\\themify-icons.css",
+      "PackagePath": "staticwebassets\\vendors\\themify\\themify-icons.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Elev8-Final.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Elev8-Final.props",
+      "PackagePath": "build\\Elev8-Final.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Elev8-Final.props",
+      "PackagePath": "buildMultiTargeting\\Elev8-Final.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Elev8-Final.props",
+      "PackagePath": "buildTransitive\\Elev8-Final.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

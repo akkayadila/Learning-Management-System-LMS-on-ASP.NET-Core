@@ -1,0 +1,63 @@
+﻿<Properties StartupConfiguration="{E8045081-FCA2-4A9C-A261-552F47F31BEE}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Elev8-Final/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css">
+    <Files>
+      <File FileName="Elev8-Final/Views/Shared/_LayoutDashboard.cshtml" Line="229" Column="40" />
+      <File FileName="Elev8-Final/Views/Dashboard/Index.cshtml" Line="5" Column="23" />
+      <File FileName="Elev8-Final/Views/Courses/Create.cshtml" Line="8" Column="5" />
+      <File FileName="Elev8-Final/Views/Assignments/Index.cshtml" Line="8" Column="5" />
+      <File FileName="Elev8-Final/Views/Assignments/Edit.cshtml" Line="8" Column="5" />
+      <File FileName="Elev8-Final/Views/Assignments/Create.cshtml" Line="8" Column="5" />
+      <File FileName="Elev8-Final/Views/Assignments/Delete.cshtml" Line="12" Column="1" />
+      <File FileName="Elev8-Final/Views/Courses/Delete.cshtml" Line="12" Column="1" />
+      <File FileName="Elev8-Final/Views/Assignments/Details.cshtml" Line="11" Column="1" />
+      <File FileName="Elev8-Final/Views/Courses/Details.cshtml" Line="11" Column="1" />
+      <File FileName="Elev8-Final/Views/Courses/Edit.cshtml" Line="10" Column="1" />
+      <File FileName="Elev8-Final/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css" Line="1904" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Elev8-Final" expanded="True">
+            <Node name="Elev8-Final" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="Migrations" expanded="True">
+                  <Node name="20231014193918_CustomTables.cs" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Assignments" expanded="True" />
+                <Node name="Courses" expanded="True" />
+                <Node name="Dashboard" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="admin" expanded="True">
+                  <Node name="assets" expanded="True">
+                    <Node name="css" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="lib" expanded="True">
+                  <Node name="bootstrap" expanded="True">
+                    <Node name="dist" expanded="True">
+                      <Node name="css" expanded="True">
+                        <Node name="bootstrap-grid.css" selected="True" />
+                      </Node>
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Elev8-Final PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
